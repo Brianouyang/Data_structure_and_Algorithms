@@ -1,0 +1,7 @@
+﻿操作,内容
+Map(),创建一个空映射，返回空映射对象
+"put(key, val)",将key-val关联对加入映射中，如果key已存在，将val替换旧关联值
+get(key),给定key，返回关联的数据值，如不存在，则返回None
+del,通过del map[key]的语句形式删除key-val关联
+len(),返回映射中key-val关联的数目
+in,通过key in map的语句形式，返回key是否存在关联中，布尔值

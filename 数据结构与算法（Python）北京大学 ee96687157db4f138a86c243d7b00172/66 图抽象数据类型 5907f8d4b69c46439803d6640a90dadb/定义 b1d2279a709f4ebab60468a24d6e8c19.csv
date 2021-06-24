@@ -1,0 +1,8 @@
+﻿操作,内容
+Graph(),创建一个空的图
+addVertex(vert),将顶点vert加入图中
+"addEdge(fromVert, toVert)",添加有向边
+"addEdge(fromVert, toVert, Weight)",添加带权的有向边
+getVertex(vKey),查找名称为vKey的顶点
+getVertices(),返回图中所有顶点列表
+in,按照vert in graph的语句形式，返回顶点是否存在图中True/False

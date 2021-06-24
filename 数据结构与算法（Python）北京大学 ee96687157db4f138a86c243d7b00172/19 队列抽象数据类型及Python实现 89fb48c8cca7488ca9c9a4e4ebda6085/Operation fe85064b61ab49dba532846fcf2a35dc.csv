@@ -1,0 +1,6 @@
+﻿Stack Operation,interpretation
+Queue(),创建一个空队列，返回值为Queue对象
+enqueue(item),将数据项item添加到队尾，无返回值
+dequeue(),从队首移除数据项，返回为队首数据项，队列被修改
+isEmpty(),返回队列是否为空队列，bool
+size(),返回队列中有多少个数据项

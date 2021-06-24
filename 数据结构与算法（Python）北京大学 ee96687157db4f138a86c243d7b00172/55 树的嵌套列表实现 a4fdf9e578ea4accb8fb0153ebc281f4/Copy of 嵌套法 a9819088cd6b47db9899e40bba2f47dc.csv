@@ -1,0 +1,5 @@
+﻿操作,内容
+BinaryTree,创建仅有根节点的二叉树
+insertLeft/insertRight,将新节点插入树中作为其直接的左右子节点
+get/setRootVal,则取得或返回根节点
+getLeft/RightChild,返回左/右子树

@@ -1,0 +1,7 @@
+﻿Stack Operation,interpretation
+Stack(),创建一个空栈，不包含任何数据项
+push(item),将item加入栈顶，无返回值
+pop(),将栈顶数据移除，并返回，栈被修改
+peek(),“窥视”栈顶数据，返回栈顶的数据项但不移除，栈不被修改
+isEmpty(),返回栈是否为空栈
+size(),返回栈中有多少个数据项

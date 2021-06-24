@@ -1,0 +1,8 @@
+﻿类型,list,dict
+索引,自然数i,不可变类型值key
+添加,append、extend、insert,b[k] = v
+删除,pop、remove*,pop
+更新,a[i] = v,b[k] = v
+正查,a[i]、a[i:j],b[k]、copy
+反查,index(v)、count(v),无
+其他,reverse、sort,has_key、update

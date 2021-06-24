@@ -1,0 +1,5 @@
+﻿Name,有序表,散列表,二叉查找树,AVL树
+put,$O(n)$,$O(1) \rightarrow O(n)$,$O(\log_{2} n) \rightarrow O(n)$,$O(\log_{2}n)$
+get,$O(\log_{2}n)$,$O(1) \rightarrow O(n)$,$O(\log_{2} n) \rightarrow O(n)$,$O(\log_{2}n)$
+in,$O(\log_{2}n)$,$O(1) \rightarrow O(n)$,$O(\log_{2} n) \rightarrow O(n)$,$O(\log_{2}n)$
+del,$O(n)$,$O(1) \rightarrow O(n)$,$O(\log_{2} n) \rightarrow O(n)$,$O(\log_{2}n)$

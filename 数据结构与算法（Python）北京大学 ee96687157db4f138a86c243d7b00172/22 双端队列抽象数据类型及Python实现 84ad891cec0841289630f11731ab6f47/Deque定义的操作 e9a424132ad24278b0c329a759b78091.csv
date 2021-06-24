@@ -1,0 +1,8 @@
+﻿操作,具体内容
+Deque(),创建一个空的双端队列
+addFront(item),将item加入队首
+addRear(item),将item加入队尾
+removeFront(item),从队首移除数据项，返回值为移除的数据项
+removeRear(),从队尾移除数据项，返回值为移除的数据项
+isEmpty(),返回deque是否为空
+size(),返回deque中包含数据项的个数
